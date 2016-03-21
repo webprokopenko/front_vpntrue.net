@@ -49,6 +49,7 @@ a{text-decoration: none;}
 	text-decoration: none;
 }
 .wrapp_main-block{
+	text-align: center;
 	margin: auto;
 	max-width: 1150px;
 	padding-bottom: 115px;
@@ -490,4 +491,61 @@ a.copyright{
 	.footer_logo{
 		margin: 0;
 	}
+}
+/*TUTORIAL*/
+.mr{
+	margin-right: 2%;}
+.wrapp_difference{
+	background-color: rgb(28, 84, 145);
+}
+.difference{
+	margin: auto;
+	max-width: 1150px;
+	text-align: center;
+	height: 600px;
+}
+.difference_menu{
+	padding: 30px;
+}
+.difference_text{
+	color: rgb(255,255,255);
+	font-family: "Verdana Regular";
+	font-size: 40px;
+	padding-top: 50px;
+}
+.difference_item{
+	width: 48%;
+	background-color: rgb(255, 255, 255);
+}
+.difference_img{
+	padding-top: 20px;
+}
+.difference_item-text1{
+	font-family: "Verdana-Bold";
+	font-size: 18px;
+	color: rgb(28,84,145);
+	padding: 20px 0;
+}
+.difference_item-text2{
+	font-family: "Verdana Regular";
+	font-size: 18px;
+	color: rgb(129,128,128);
+	padding: 0 20px 20px 20px;
+}
+.scheme_img{
+	padding-top: 100px;
+}
+.wrapp_map{
+	background-color: rgb(255, 255, 255);
+	text-align: center;
+	margin: 50px;
+	margin: 50px;
+}
+.map_text{
+	font-family: "Verdana Regular";
+	font-size: 40px;
+	color: rgb(0, 0, 0);
+}
+.map_img{
+	width: 100%;
 }
